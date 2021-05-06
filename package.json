@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^1.5.1",
     "@material-ui/icons": "^1.1.1",
-    "highcharts": "^7.2.1",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^2.2.2",
     "jss-rtl": "^0.3.0",
     "prop-types": "^15.7.2",
